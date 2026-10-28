@@ -1,0 +1,9 @@
+data/raw/*.csv
+data/processed/
+.ipynb_checkpoints/
+__pycache__/
+.env
+credentials*.json
+token*.json
+outputs/reports/detail_for_sheet.json
+outputs/reports/matched_weeks.csv

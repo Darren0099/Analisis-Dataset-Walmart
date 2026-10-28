@@ -1,0 +1,22 @@
+{
+  "total_sales": 6737218987.11,
+  "stores": 45,
+  "weeks": 143,
+  "rows": 6435,
+  "avg_weekly_network": 47113419.49027973,
+  "start": "2010-02-05",
+  "end": "2012-10-26",
+  "network_yoy_pct": 2.5730435972376897,
+  "matched_weeks": 43,
+  "match_start_2011": "2011-01-07",
+  "match_end_2011": "2011-10-28",
+  "match_start_2012": "2012-01-06",
+  "match_end_2012": "2012-10-26",
+  "holiday_gap_pct": 7.839713033050177,
+  "holiday_gap_without_peak_pct": 8.437117077106905,
+  "top5_share_pct": 21.549571191581272,
+  "peak_week": "2010-12-24",
+  "peak_week_sales": 80931415.6,
+  "best_month_weekly": "2010-12",
+  "declining_stores": 8
+}

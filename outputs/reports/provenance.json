@@ -1,0 +1,9 @@
+{
+  "dataset": "mikhail1681/walmart-sales",
+  "source_url": "https://www.kaggle.com/datasets/mikhail1681/walmart-sales",
+  "download_path": "local CSV from official Kaggle download",
+  "sha256": "0846b6941217dd938ceba6ae04650ccbbd01f4877a5f88bfa4dbecda54806c8f",
+  "rows": 6435,
+  "analysis_date": "2026-10-28",
+  "kaggle_version": "not recorded; identify snapshot by sha256"
+}
